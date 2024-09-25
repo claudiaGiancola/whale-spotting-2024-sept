@@ -2,7 +2,7 @@
 
 This is a project to help users find out more about whales and to encourage them to go and spot whales in the wild.
 
-![Whale Whale Whale](https://github.com/user-attachments/assets/bda77c14-a098-4ad0-9721-f0f1ec765e28)
+![Whale Whale Whale](https://github.com/user-attachments/assets/b6cbebfe-f3c4-4981-9db2-3903b42ba2bc)
 
 
 ## Setting up
